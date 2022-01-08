@@ -1,4 +1,9 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://github.com/dobernike">
+    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=dobernike&theme=vue-dark&include_all_commits=true&count_private=true"/>
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dobernike&layout=compact&theme=vue-dark&hide=css,scss,html,ejs,sass&exclude_repo=dotfiles"/>
+  </a>
+</p>
 
 <!--
 **dobernike/dobernike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
