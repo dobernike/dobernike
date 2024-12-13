@@ -1,11 +1,19 @@
 <p align="center">
-  <a href="https://github.com/dobernike">
+  <h2>💻 Tech Stack</h2>
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+<h2>📊 GitHub Stats</h2>
+<a href="https://github.com/dobernike">
     <img height="150px" src="https://github-readme-stats.vercel.app/api?username=dobernike&theme=vue-dark&include_all_commits=true&count_private=true"/>
     <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dobernike&layout=compact&theme=vue-dark&hide=css,scss,html,ejs,sass&exclude_repo=dotfiles"/>
   </a>
 </p>
 
 <!--
+badges - https://inttter.github.io/md-badges
 **dobernike/dobernike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
