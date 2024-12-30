@@ -25,7 +25,7 @@
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](#)
 -->
 
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dobernike&layout=compact&theme=vue-dark&hide=css,scss,html,ejs,sass&exclude_repo=dotfiles"/>
+[![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dobernike&layout=compact&theme=vue-dark&hide=css,scss,html,ejs,sass&exclude_repo=dotfiles)](#)
 
 <!--
 badges - https://inttter.github.io/md-badges
