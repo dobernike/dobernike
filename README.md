@@ -24,12 +24,7 @@
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](#)
 -->
 
-<h2>📊 GitHub Stats</h2>
-<a href="https://github.com/dobernike">
-<!--     <img height="150px" src="https://github-readme-stats.vercel.app/api?username=dobernike&theme=vue-dark&include_all_commits=true&count_private=true"/> -->
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dobernike&layout=compact&theme=vue-dark&hide=css,scss,html,ejs,sass&exclude_repo=dotfiles"/>
-  </a>
-</p>
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dobernike&layout=compact&theme=vue-dark&hide=css,scss,html,ejs,sass&exclude_repo=dotfiles"/>
 
 <!--
 badges - https://inttter.github.io/md-badges
