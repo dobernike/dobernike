@@ -26,7 +26,7 @@
 
 <h2>📊 GitHub Stats</h2>
 <a href="https://github.com/dobernike">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=dobernike&theme=vue-dark&include_all_commits=true&count_private=true"/>
+<!--     <img height="150px" src="https://github-readme-stats.vercel.app/api?username=dobernike&theme=vue-dark&include_all_commits=true&count_private=true"/> -->
     <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dobernike&layout=compact&theme=vue-dark&hide=css,scss,html,ejs,sass&exclude_repo=dotfiles"/>
   </a>
 </p>
